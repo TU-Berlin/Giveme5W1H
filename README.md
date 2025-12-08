@@ -1,3 +1,11 @@
+⚠️ This repository has been migrated to GitLab of Technische Universität Berlin.
+
+New location: https://git.tu-berlin.de/github-TU-Berlin/Giveme5W1H
+
+This GitHub repository is **archived** and no longer maintained.
+Please use only the TU Berlin GitLab repository.
+
+
 # Giveme5W1H
 
 <img align="right" height="128px" src="https://raw.githubusercontent.com/fhamborg/Giveme5W1H/master/misc/logo/logo-256.png" /> 
